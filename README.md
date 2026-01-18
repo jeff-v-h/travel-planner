@@ -7,4 +7,4 @@ The code behind this application currently lives in a private repository shared 
 
 ## Hosting & Performance
 
-The application is currently hosted in Australia. Edge node caching has not been configured for global latency reduction. Users accessing the application from outside of Australia may experience slightly longer request times in the meantime.
+The application is currently hosted in Australia. Edge node caching has not been configured for global latency reduction. Users accessing the application from outside of Australia may experience slightly longer requests in the meantime.
